@@ -1,5 +1,9 @@
 package com.chenyingjun.statics;
 
+/**
+ * 代理对象
+ * @author chenyingjun
+ */
 public class ProxyObject extends AbstractObject {
 
     public AbstractObject abstractObject;

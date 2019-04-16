@@ -1,5 +1,9 @@
 package com.chenyingjun.dynamic.jdk;
 
+/**
+ * 实现对象
+ * @author chenyingjun
+ */
 public class RealObject implements IObject {
 
 

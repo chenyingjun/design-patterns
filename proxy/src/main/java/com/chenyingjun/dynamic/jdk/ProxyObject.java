@@ -3,6 +3,10 @@ package com.chenyingjun.dynamic.jdk;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
+/**
+ * 代理对象
+ * @author chenyingjun
+ */
 public class ProxyObject implements InvocationHandler {
 
     /**

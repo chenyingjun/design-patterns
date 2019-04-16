@@ -5,6 +5,10 @@ import net.sf.cglib.proxy.MethodProxy;
 
 import java.lang.reflect.Method;
 
+/**
+ * 代理对象
+ * @author chenyingjun
+ */
 public class ProxyObject implements MethodInterceptor {
 
     @Override
